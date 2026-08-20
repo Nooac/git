@@ -1,4 +1,5 @@
-Git Tehtävä
+***Git Tehtävä***
+
 ***1.	Mitä versiohallinalla tarkoitetaan?***
 Versiohalinalla tarkoitetaan työkalua, jolla seurataan ohjelmistokoodin muutoksia ja   tehdään yhteistyötä.
 ***2.	Mikä on Git-versiohallinta ja mikä on sen historia***
