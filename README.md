@@ -2,8 +2,10 @@
 
 ***1.	Mitä versiohallinalla tarkoitetaan?***
 Versiohalinalla tarkoitetaan työkalua, jolla seurataan ohjelmistokoodin muutoksia ja   tehdään yhteistyötä.
+
 ***2.	Mikä on Git-versiohallinta ja mikä on sen historia***
 Git-versiohallinta on ilmainen ja avoimen lähdekoodin hajautettu versionhallintajärjestelmä, jonka loi Linus Torvalds vuonna 2005 Linux-ytimen kehitystä varten, kun aiempi kaupallinen BitKeeper-järjestelmä ei enää sopinut ilmaiseen käyttöön. ilmainen ja avoimen lähdekoodin hajautettu
+
 ***3.	Selitä Git:n vesiohallinan tärkeimmät komennot sen peruskäytössä***
 Git-versionhallinnan tärkeimmät peruskomennot ovat:
 ( git innit ), ( git status), ( git add ), (git commit ), ( git push ), ( git pull )
